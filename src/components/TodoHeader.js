@@ -22,7 +22,7 @@ class TodoHeader extends React.Component {
 	render(){
         return (
 	        <div className="todo-header">
-	  	    	<input type="text" onKeyUp={this.handleEvent.bind(this)} placeholder="请输入任务" />
+	  	    	<input type="text" onKeyUp={this.handleEvent.bind(this)} placeholder="请输入任务2222" />
 	        </div>
 	     )
 	}
